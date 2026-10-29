@@ -1,0 +1,9 @@
+input.txt
+launcher-state.json
+*.session*
+.env
+.env.*
+!configuration.example.txt
+__pycache__/
+*.pyc
+*.log
